@@ -1,0 +1,190 @@
+
+#carusel{
+    margin-top: 100px !important;
+}
+@media screen and (max-width: 1930px){
+    .container.\31 25\25 {
+        width: 100%;
+        max-width: 1930px;
+        min-width: 1400px;
+        }
+        
+        .container.\37 5\25 {
+        width: 1050px;
+        }
+        
+        .container.\35 0\25 {
+        width: 700px;
+        }
+        
+        .container.\32 5\25 {
+        width: 350px;
+        }
+        
+        .container {
+        width: 1400px;
+        }
+    }
+        @media screen and (max-width: 1680px) {
+        
+        .container.\31 25\25 {
+        width: 100%;
+        max-width: 1500px;
+        min-width: 1200px;
+        }
+        
+        .container.\37 5\25 {
+        width: 900px;
+        }
+        
+        .container.\35 0\25 {
+        width: 600px;
+        }
+        
+        .container.\32 5\25 {
+        width: 300px;
+        }
+        
+        .container {
+        width: 1200px;
+        }
+        
+        }
+        
+        @media screen and (max-width: 1280px) {
+        
+        .container.\31 25\25 {
+        width: 100%;
+        max-width: 1200px;
+        min-width: 960px;
+        }
+        
+        .container.\37 5\25 {
+        width: 720px;
+        }
+        
+        .container.\35 0\25 {
+        width: 480px;
+        }
+        
+        .container.\32 5\25 {
+        width: 240px;
+        }
+        
+        .container {
+        width: 960px;
+        }
+        
+        }
+        
+        @media screen and (max-width: 980px) {
+        
+        .container.\31 25\25 {
+        width: 100%;
+        max-width: 118.75%;
+        min-width: 95%;
+        }
+        
+        .container.\37 5\25 {
+        width: 71.25%;
+        }
+        
+        .container.\35 0\25 {
+        width: 47.5%;
+        }
+        
+        .container.\32 5\25 {
+        width: 23.75%;
+        }
+        
+        .container {
+        width: 95%;
+        }
+        
+        }
+        
+        @media screen and (max-width: 840px) {
+        
+        .container.\31 25\25 {
+        width: 100%;
+        max-width: 118.75%;
+        min-width: 95%;
+        }
+        
+        .container.\37 5\25 {
+        width: 71.25%;
+        }
+        
+        .container.\35 0\25 {
+        width: 47.5%;
+        }
+        
+        .container.\32 5\25 {
+        width: 23.75%;
+        }
+        
+        .container {
+        width: 95% !important;
+        }
+        
+        }
+        
+        @media screen and (max-width: 736px) {
+        
+        .container.\31 25\25 {
+        width: 100%;
+        max-width: 125%;
+        min-width: 100%;
+        }
+        
+        .container.\37 5\25 {
+        width: 75%;
+        }
+        
+        .container.\35 0\25 {
+        width: 50%;
+        }
+        
+        .container.\32 5\25 {
+        width: 25%;
+        }
+        
+        .container {
+        width: 100% !important;
+        }
+    }
+       .item img{
+           height: 100%;
+       }
+    
+       .carousel-control-prev-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+       }
+       
+       .carousel-control-next-icon {
+         background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+       }
+       #obiect {
+           color:rgba(255, 255, 255, 0.829);
+       }
+       #obiect:hover{
+           color:rgba(255, 255, 255, 0.555);
+
+       }
+       .navbar{
+           background-color: #3ee2ab !important;
+
+       }
+      .navbar .navbar-brand{
+           color: rgba(255, 255, 255, 0.829) !important;
+           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+           
+       }
+       #obiect1{
+        color:rgba(255, 255, 255, 0.829);
+        font-family: 'Times New Roman', Times, serif;
+
+       }
+       #obiect1:hover{
+           text-decoration:underline;
+       }
